@@ -28,7 +28,7 @@
 }
 
 .container > h3 {
-  margin: 5px auto 20px auto;
+  margin: 20px auto 20px auto;
 }
 
 form {
@@ -64,4 +64,8 @@ input {
 #user-response {
   margin: 10px auto;
   font-size: 20px;
+}
+
+#API-description {
+  text-align: center;
 }
